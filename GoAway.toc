@@ -1,0 +1,8 @@
+## Interface: 11306
+## Title: GoAway
+## Author: ChromaticDB
+## Version: 1.00
+## Notes: Hide player models
+## SavedVariables: GoAwayDB
+
+core/GoAway.lua
